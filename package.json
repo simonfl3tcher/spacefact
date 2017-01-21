@@ -1,0 +1,13 @@
+{
+  "name": "SpaceFact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Simon Fletcher",
+  "license": "MIT",
+  "dependencies": {
+    "alexa-app": "^2.4.0",
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
